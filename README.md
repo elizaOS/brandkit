@@ -24,3 +24,5 @@ This directory contains the following media assets:
 ## media
 
 <img src="media/montage.jpg" alt="Montage" width="800" />
+
+![Screenshot from 2025-01-24 16-34-33](https://github.com/user-attachments/assets/9b0a95c5-5564-46f5-933e-b9f37e75f8d5)
