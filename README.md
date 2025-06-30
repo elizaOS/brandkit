@@ -226,4 +226,4 @@ For brand usage questions, custom requests, or licensing inquiries, please conta
 
 ---
 
-*Last updated: January 2025*
+*Last updated: July 2025*
